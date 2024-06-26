@@ -6,4 +6,4 @@
 #
 # For more details, please check https://github.com/bazelbuild/bazel/issues/18958
 ###############################################################################
-bazel_dep(name = "rules_rust", version = "0.46.0")
+bazel_dep(name = "rules_python", version = "0.33.2")
